@@ -38,3 +38,4 @@ Works offline (locally)
 Popular platforms using Git: GitHub, GitLab, Bitbucket
 
 # 25-06-25
+we have added gitignore file
